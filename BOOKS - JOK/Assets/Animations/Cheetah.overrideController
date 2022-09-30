@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cheetah
+  m_Controller: {fileID: 9100000, guid: 281dfd495cadf30499a6874f1b423038, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2cd718907a2a2dc4aaacf6fedb03e16a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4da3223b7f5d76e45ba22a9a09ab0f9f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 61874a993fdbcb14ca51d10c4ba6da73, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a64975ef16d9da14da040c6d71b798ea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23385133bcd8c8543bbba658fe60cb57, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2ce26c5f6e729142800b37ff0982e22, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 91006032478d2f544b3c22d2d35b7e1f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d03963c3ac6ab8b419303560bd6dffe6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ca82f93936eb184e828c3cb7652e3b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3151a5332e29e374b9cb2a47eb2caed0, type: 2}
